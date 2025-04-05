@@ -33,7 +33,7 @@ int main() {
     printf("Insira o nome da cidade\n");
     scanf("%49s", nome_cidade1);
     printf("Insira a população\n");
-    scanf("%d", &populacao1);.
+    scanf("%d", &populacao1);
     printf("Insira a Área\n");
     scanf("%f", &areakm1);
     printf("Insira o PIB (em bilhões)\n");
